@@ -63,7 +63,8 @@ Features les plus importantes (Top 5) :
 
 - Les clients avec plusieurs produits bancaires ou une longue ancienneté sont moins susceptibles de churner.
 
-<img width="556" height="525" alt="output" src="https://github.com/user-attachments/assets/714791d2-6b27-49f3-839e-129c049644ae" />
+
+<img width="556" height="545" alt="output" src="https://github.com/user-attachments/assets/a0f6e76e-e444-4304-8532-d71f28edbcdd" />
 
 ---
 ### Recommandations
@@ -73,7 +74,4 @@ Actions sur les clients churners : campagnes marketing ciblées, offres personna
 Améliorations possibles du modèle :
 
 - Essayer des modèles plus puissants (XGBoost, LightGBM)
-
-- Ajuster les seuils pour maximiser le F1-score des churners
-
 - SMOTE pour mieux traiter la classe minoritaire
